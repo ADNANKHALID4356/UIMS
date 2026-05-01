@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "uims-server",
+      "cwd": "/var/www/uims/server",
+      "script": "src/index.js",
+      "interpreter": "node",
+      "env": {
+        "PORT": "8788"
+      }
+    }
+  ]
+}
+

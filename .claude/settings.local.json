@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv src/services/medicine/MedicineBatchService.js _removed_niches/services/medicine/)",
+      "Bash(mv src/services/medicine/ControlledSubstanceService.js _removed_niches/services/medicine/)",
+      "Bash(mv src/services/prescription/PrescriptionService.js _removed_niches/services/prescription/)",
+      "Bash(mv src/services/property/PropertyService.js _removed_niches/services/property/)",
+      "Bash(mv src/services/commission/CommissionService.js _removed_niches/services/commission/)",
+      "Bash(mv src/frontend/pages/MedicineBatchesPage.jsx _removed_niches/frontend_pages/)",
+      "Bash(mv src/frontend/pages/PrescriptionsPage.jsx _removed_niches/frontend_pages/)",
+      "Bash(mv src/frontend/pages/PropertyListingsPage.jsx _removed_niches/frontend_pages/)",
+      "Bash(mv src/frontend/pages/CommissionsPage.jsx _removed_niches/frontend_pages/)"
+    ]
+  }
+}

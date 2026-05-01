@@ -1,0 +1,39 @@
+AGRICULTURAL INVENTORY MANAGEMENT SYSTEM
+SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Agricultural Inventory Solutions
+All Rights Reserved
+
+PROPRIETARY SOFTWARE LICENSE
+
+This software and associated documentation files (the "Software") are proprietary 
+and confidential. This license grants you the following rights:
+
+1. LICENSE GRANT
+   You are granted a non-exclusive, non-transferable license to use this Software
+   for commercial agricultural inventory management purposes.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Modify, reverse engineer, decompile, or disassemble the Software
+   - Copy, distribute, or transfer the Software to third parties
+   - Remove or alter any proprietary notices or labels on the Software
+
+3. OWNERSHIP
+   The Software is licensed, not sold. All rights not expressly granted are reserved.
+
+4. SUPPORT & UPDATES
+   Technical support and software updates are provided as per your service agreement.
+
+5. WARRANTY DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF 
+   THIS SOFTWARE.
+
+For licensing inquiries or technical support, please contact:
+Agricultural Inventory Solutions
+support@agri-inventory.local
+
+Installation of this software constitutes acceptance of these terms.
